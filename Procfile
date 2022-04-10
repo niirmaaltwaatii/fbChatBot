@@ -1,1 +1,1 @@
-worker: python fb-chat-bot.py
+worker: python fbChatBot.py
