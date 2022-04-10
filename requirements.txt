@@ -1,0 +1,4 @@
+fbchat
+requests
+selenium
+webdriver_manager
